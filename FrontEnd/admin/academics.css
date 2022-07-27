@@ -1,0 +1,99 @@
+.collapse-link{
+    display: flex;
+    flex-direction: row;
+}
+
+.name_log_cont{
+    color: #a1d229;
+    position: absolute;
+    right: 3rem;
+    top: 1rem;
+    width: 20rem;
+    display: flex;
+}
+
+.username{
+    position: absolute;
+    right: 8rem;
+}
+
+.logoutbtn{
+    right: 0px;
+    position: absolute;
+    border-radius: 8px;
+    background-color: #00ffce;
+    cursor: pointer;
+}
+
+#InsertDeptInfo{
+    position: absolute;
+    top: 2.5rem;
+}
+
+.info-container{
+    position: absolute;
+    top: 4rem;
+    padding-left: 2rem;
+    width: 100%;
+}
+
+.cursor_pointer{
+    cursor: pointer;
+}
+
+.insert_btn{
+    margin-bottom: 1rem;
+    border-radius: 8px;
+    background: antiquewhite;
+}
+
+#GetInfo{
+    position: absolute;
+    border: 5px solid #54ac9b;
+    top: 2rem;
+    right: 2rem;
+    padding: 12px;
+    border-radius: 10px;
+}
+
+.ShowInfo{
+    position: absolute;
+    top: 8rem;
+    left: 30%;
+}
+
+.th{
+    border : 2px solid #4291a7;
+    color: indigo;
+}
+
+.td{
+    border : 2px solid black;
+    color:#b40202;
+}
+
+.getInfoBtn{
+    border: 0px;
+    width: 100%;
+    cursor: pointer;
+}
+
+.w-30r{
+    width: 30rem;
+}
+
+input{
+    width: 18rem;
+}
+
+.entryBtn{
+    width: 10rem;
+    margin-left: 10rem;
+    margin-top: 1rem;
+    background-color: azure;
+    border-radius: 1rem;
+}
+
+.form-bg{
+    background-color: aliceblue;
+}
